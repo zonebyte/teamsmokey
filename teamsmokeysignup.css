@@ -16,14 +16,15 @@ body{
   flex-wrap: wrap;
   padding:80px;
   margin-top:20px;
-  margin-left: auto;
-  margin-right: auto;
   width:400px;
+  left:140%;
+  top:10%;
   justify-content: center;
   display:inline-block;
   position:relative;
   background-color:white;
   height:500px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
 }
 .email {
   position:relative;
