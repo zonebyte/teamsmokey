@@ -12,8 +12,8 @@ body{
   width: 100%;
 }
 #form1 {
-  display: flex;
-  flex-wrap: wrap;                                                                  
+  display: block;  
+  position:relative;
   padding:80px;
   margin-top:20px;
   margin-left: auto;
