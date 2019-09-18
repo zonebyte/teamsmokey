@@ -22,6 +22,22 @@ body{
   width:250px;
   height:70vh;
   justify-content: center;
+  display:inline-block;
+  position:relative;
+  background-image:linear-gradient(200deg, rgb(138,43,226),rgb(63,224,208));
+  background-repeat: no-repeat;
+  height:900px;
+}
+#form1 {
+  position: relative;
+  display: block;
+  padding:80px;
+  margin:20px;
+  background-color: floralwhite;
+  width:250px;
+  height:500px;
+  justify-content: center;
+  left:100%;
   top:10%;
   box-shadow: 0 10px 20px rgba(0,0,0,2);
 }
@@ -124,7 +140,6 @@ p {
   font-weight: bold;
   top:40px;
 }
-
 .modal {
   /*position: fixed;
   left: 0;
@@ -175,7 +190,7 @@ p {
   text-align: center;
   cursor: pointer;
   border-radius: 0.25rem;
-  background-color: lightgray;
+  background-color: lightgrey;
   
   /*color: #aaa;
   float: right;
@@ -184,7 +199,7 @@ p {
 }
 
 .close-button:hover {
-  background-color: darkgray;
+  background-color: darkgrey;
   cursor: pointer;
 }
 
@@ -195,15 +210,14 @@ p {
   text-align: center;
   cursor: pointer;
   border-radius: 0.25rem;
-  background-color: lightgray;
+  background-color: lightgrey;
   
   /*color: #aaa;
   float: right;
   font-size: 28px;
   font-weight: bolder;*/
 }
-
 .close-button2:hover {
-  background-color: darkgray;
+  background-color: darkgrey;
   cursor: pointer;
 }
