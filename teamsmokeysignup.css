@@ -24,6 +24,7 @@ body{
   justify-content: center;
   top:10%;
   box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  left:50%;
 }
 .email {
   position:relative;
