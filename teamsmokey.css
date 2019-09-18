@@ -1,22 +1,33 @@
 *{
   margin:0;
   padding:0;
+  box-sizing: content-box;
+}
+html {
+  height: 100%;
 }
 body{
-  display:inline-block;
-  position:relative;
-  background-image:linear-gradient(200deg, rgb(138,43,226),rgb(63,224,208));
+  background:url("background.jpg");
+  background-attachment: fixed;
+  background-position: center;
   background-repeat: no-repeat;
-  height:900px;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  /*width: 100%;
+  height: auto;*/
 }
 #form1 {
-  position: relative;
-  display: block;
+  display: flex;
+ flex-wrap: wrap;
+ float: right;
   padding:80px;
-  margin:20px;
+  margin-right:10%;
+  margin-top: 20px;
   background-color: floralwhite;
   width:250px;
   height:300px;
+  top: 10%;
   justify-content: center;
   left:100%;
   top:10%;
@@ -80,7 +91,7 @@ span {
   position: relative;
   padding:7px;
   width:150px;
-  background-image:linear-gradient(200deg,rgb(63,224,208),rgb(138,43,226));
+  background-image:linear-gradient(200deg,rgb(125,146,211),rgb(165,115,213));
   border: 1px solid floralwhite;
   font-family: monospace;
   color:white;
@@ -96,3 +107,4 @@ p {
   font-family:monospace;
   top:20px;
 }
+
