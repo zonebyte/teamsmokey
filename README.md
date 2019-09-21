@@ -12,5 +12,7 @@ This repository is a joint work of
 * Onyeka Nwangwu **(Onyeka)**
 
 #### You can access the Team site live at [https://teamsmokey.000webhostapp.com/login.php](https://teamsmokey.000webhostapp.com/login.php).
+
+#### You can view the tutorial on [Lucid blog](https://lucid.blog/lateef4ril/post/creating-a-login-and-sign-up-page-using-just-html-css-javascript-and-authenticating-with-php-ba8)
 ![](https://i.imgur.com/PDuYpzx.png)
 ![](https://i.imgur.com/XDpVAKS.png)
