@@ -10,3 +10,6 @@ This repository is a joint work of
 * Taofeek Lateef **(tgold)**
 * Victor Ogunmoye **(Victor Ogunmoye)**
 * Onyeka Nwangwu **(Onyeka)**
+
+#### You can access the Team site live at [https://teamsmokey.000webhostapp.com/login.php](https://teamsmokey.000webhostapp.com/login.php).
+![](https://i.imgur.com/PDuYpzx.png)
