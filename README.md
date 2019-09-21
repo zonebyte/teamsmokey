@@ -12,4 +12,5 @@ This repository is a joint work of
 * Onyeka Nwangwu **(Onyeka)**
 
 #### You can access the Team site live at [https://teamsmokey.000webhostapp.com/login.php](https://teamsmokey.000webhostapp.com/login.php).
-![](https://i.imgur.com/PDuYpzx.png)
+<div class='pull-left'>![](https://i.imgur.com/PDuYpzx.png)</div>
+<div class='pull-left'>![](https://i.imgur.com/XDpVAKS.png)</div>
